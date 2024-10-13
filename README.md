@@ -1,6 +1,6 @@
 [](h![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/4d997102-cf73-42ee-8863-87ab80353328)
 
-ttps://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barbare💖
+My name is Barbare💖
 ===========================================================================================================================================
 
 💖A future Front-End developer💖
