@@ -3,7 +3,7 @@
 My name is Barbare💖
 ===========================================================================================================================================
 
-💖A future Front-End developer💖
+            💖
 --------------------------------
 
 I'm a confident beginner in the world of programming, and I believe that every challenge is an opportunity to learn! 🩷 I'm excited to dive into coding, explore new technologies, and build my skills.🩷🩷
