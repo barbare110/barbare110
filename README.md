@@ -36,7 +36,7 @@ I'm a confident beginner in the world of programming, and I believe that every c
  </picture>
   </a>
 </p>
-
+--------------------------------
   <h3>Badges</h3>
   <b>My GitHub Stats</b>
 
