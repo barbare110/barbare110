@@ -54,5 +54,5 @@ I'm a confident beginner in the world of programming, and I believe that every c
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbare110&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 </p>
-
+<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%; text-align: center; display: block;"> 
 
