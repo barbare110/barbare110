@@ -1,5 +1,11 @@
 # ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/4d997102-cf73-42ee-8863-87ab80353328)
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barbare Patashuri💖
+===========================================================================================================================================
+
+💖A future Front-End developer💖
+--------------------------------
+
 I'm a confident beginner in the world of programming, and I believe that every challenge is an opportunity to learn! 🩷 I'm excited to dive into coding, explore new technologies, and build my skills.🩷🩷
 
 * 🌍  I'm based in Georgia,Tbilisi🩷
@@ -23,12 +29,11 @@ I'm a confident beginner in the world of programming, and I believe that every c
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/barbare110"><img src="https://github-readme-stats.vercel.app/api?username=barbare110&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="barbare110's GitHub stats" /></a>
+<a href="http://www.github.com/barbare110"><img src="https://github-readme-stats.vercel.app/api?username=barbare110&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ec4899&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="barbare110's GitHub stats" /></a>
 
-<a href="http://www.github.com/barbare110"><img src="https://github-readme-streak-stats.herokuapp.com/?user=barbare110&stroke=000000&background=000000&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/barbare110"><img src="https://github-readme-streak-stats.herokuapp.com/?user=barbare110&stroke=ec4899&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ec4899&currStreakLabel=ec4899&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="https://github.com/barbare110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbare110&langs_count=10&title_color=ec4899&text_color=000000&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/barbare110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbare110&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
  <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
 
