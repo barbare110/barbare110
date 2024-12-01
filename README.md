@@ -25,6 +25,7 @@ I'm a confident beginner in the world of programming, and I believe that every c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
  </a>
 </p>
+--------------------------------
 
 <h3>Socials</h3>
  <p style="text-align: center;">
@@ -36,7 +37,7 @@ I'm a confident beginner in the world of programming, and I believe that every c
  </picture>
   </a>
 </p>
---------------------------------
+
   <h3>Badges</h3>
   <b>My GitHub Stats</b>
 
