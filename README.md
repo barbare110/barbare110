@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barbare110&" alt="barbare110" /></p>
 
-# <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
+ <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
