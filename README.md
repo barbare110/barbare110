@@ -4,12 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 --------------------------------
 
-I'm a confident beginner in the world of programming, and I believe that every challenge is an opportunity to learn! 🩷                                                                                                                                                                                                  I'm excited to dive into coding, explore new technologies, and build my skills.🩷🩷
-
-* 🌍  I'm based in Georgia,Tbilisi🩷
-* 🖥️  [My projects are available at](http://https://github.com/barbare110/GOA.git)
-* 🧠  I'm learning everythingggg
-* ⚡  Every expert was once a beginner.
+LEAVE...BYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 --------------------------------
 ### Badges
 
